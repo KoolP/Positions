@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionsInCSharp", "PositionsInCSharp\PositionsInCSharp.csproj", "{7F1EEC16-2679-4ADD-A83C-16D7A9C3F794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1EEC16-2679-4ADD-A83C-16D7A9C3F794}.Debug|x86.ActiveCfg = Debug|x86
+		{7F1EEC16-2679-4ADD-A83C-16D7A9C3F794}.Debug|x86.Build.0 = Debug|x86
+		{7F1EEC16-2679-4ADD-A83C-16D7A9C3F794}.Release|x86.ActiveCfg = Release|x86
+		{7F1EEC16-2679-4ADD-A83C-16D7A9C3F794}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
